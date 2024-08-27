@@ -1,6 +1,10 @@
 team: LG
 
+<<<<<<< HEAD
 manager: 조정하
+=======
+manager: 김진아
+>>>>>>> conflict
 
 members:
 - 고우석
